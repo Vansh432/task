@@ -16,7 +16,6 @@ This is an Electron-based desktop application for capturing audio input using a 
 
 ## 📦 Tech Stack
 
-- [Electron](https://www.electronjs.org/)
 - [React + Vite](https://vitejs.dev/)
 - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 - [node-record-lpcm16](https://github.com/gillesdemey/node-record-lpcm16)
